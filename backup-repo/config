@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Suneel823/Full-_stack_Reactjs_Health_management.git
+	fetch = +refs/*:refs/*
+	mirror = true
