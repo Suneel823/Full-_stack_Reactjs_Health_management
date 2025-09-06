@@ -85,5 +85,4 @@ spring.jpa.hibernate.ddl-auto=update
 - Enhanced user roles (admin panel)
 
 ## Author
-- **Tharun Sai Yadav Chinagani**  
-Capstone Project for Wipro Training 2025
+- **SUNIL KUMAR **  
